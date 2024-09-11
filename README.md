@@ -68,7 +68,9 @@ plt.show()
 
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/5f068385-2680-4d37-9a30-bb775c54d9af)
+
+![image](https://github.com/user-attachments/assets/6cbf2bdb-7414-48ba-ae6e-78c37a29a714)
+
 
 
 <H3>Results:</H3>
